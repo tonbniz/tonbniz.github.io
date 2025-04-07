@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![tonbniz](https://img.shields.io/badge/tonbniz-github-blue?logo=github)](https://github.com/tonbniz)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+
+He is currently pursuing a Master's Degree in Control Engineering at the School of Automation, Chongqing University of Posts and Telecommunications (CQUPT), China.\
+He is also engaged in exchange research at the Key Laboratory of Complex System Safety and Control, Chongqing University.\
 
 #### Email
-sli[at]cumt.edu.cn
+1413660566@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Control Engineering, Chongqing University of Posts and Telecommunications, 2023—Present.\
+Exchange Program, Key Laboratory of Complex System Safety and Control, Chongqing University, 2023—Present.\
+B.E., Internet of Things Engineering, Chongqing University of Posts and Telecommunications, 2019—2023.\
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Lithium-ion Battery Fault Diagnosis, Deep Learning, Equivalent Circuit Modeling.
